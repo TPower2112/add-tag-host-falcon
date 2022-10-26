@@ -7,8 +7,8 @@ import falconpy
 from getpass import getpass
 from falconpy import Hosts
 
-#authenticate to the CrowdStrike Falcon platform
-# Get user input for their CrowdStrike API ID and API Secret
+# Authenticate to the CrowdStrike Falcon platform
+# User inputs their CrowdStrike API ID and API Secret
 
 cs_api_id = input("Please enter your CrowdStrike API ID: ")
 cs_api_secret = getpass("Please enter your CrowdStrike API Secret (input hidden): ")
