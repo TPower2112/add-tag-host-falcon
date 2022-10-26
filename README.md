@@ -1,6 +1,6 @@
 #  Add a Falcon Grouping Tag to a host via the API using FalconPy
 
-This script will take user input to add a Falcon Group tag to a single host in the CrowdStrike console. 
+This script will take user input to add a Falcon Grouping tag to a single host in the CrowdStrike console. 
 
 ## prerequisites
 [FalconPy](https://www.falconpy.io/Usage/Installation-Upgrades-and-Removal.html) must be installed into the coding environment.  
